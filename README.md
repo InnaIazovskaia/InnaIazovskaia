@@ -3,6 +3,8 @@
 #  👋 Hi, I’m Inna 
 ### Full Stack Web Developer
   
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmMGFlNmYzOGI3ZjZhYjAyZjdlODc0YmQ1M2E5MzE5MmQyZmU3ZiZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" />
+  
   
 ## ⚒️ Languages and Tools
   
