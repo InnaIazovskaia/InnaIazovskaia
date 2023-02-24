@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmMGFlNmYzOGI3ZjZhYjAyZjdlODc0YmQ1M2E5MzE5MmQyZmU3ZiZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" />
   <br/>
   <br/>
+  
+  
   <a href="https://www.linkedin.com/in/inna-iazovskaia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -37,6 +39,8 @@
   
 ## :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InnaIazovskaia&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InnaIazovskaia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
