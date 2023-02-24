@@ -4,6 +4,11 @@
 ### Full Stack Web Developer
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmMGFlNmYzOGI3ZjZhYjAyZjdlODc0YmQ1M2E5MzE5MmQyZmU3ZiZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" />
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/inna-iazovskaia/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
   
   
 ## ⚒️ Languages and Tools
@@ -29,6 +34,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+  
+## :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InnaIazovskaia&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
 
